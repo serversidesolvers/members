@@ -1,6 +1,6 @@
 ## SERVER SIDE SOLVERS ##
 
-_Add yourself to the list and send us a pull request to merge it into the master repo_
+_Fork us, add yourself to the list and send us a pull request to merge it into the master repo_
 
 name | facebook_id | twitter | github_url | project_name| project_description | project_url
 
